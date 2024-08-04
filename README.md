@@ -1,3 +1,4 @@
 # ApnaCollege-Demo
 This is not my first Github Repo
-AUthor - Vivek Goyal
+<br>
+Author - Vivek Goyal
